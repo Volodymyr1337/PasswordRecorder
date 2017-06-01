@@ -1,0 +1,9 @@
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\WF_PASS\PasswordRecorder\bin\Release\PasswordRecorder.exe.config
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\WF_PASS\PasswordRecorder\bin\Release\PasswordRecorder.exe
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\WF_PASS\PasswordRecorder\obj\Release\PasswordRecorder.Form1.resources
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\WF_PASS\PasswordRecorder\obj\Release\PasswordRecorder.Form2.resources
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\WF_PASS\PasswordRecorder\obj\Release\PasswordRecorder.Form3.resources
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\WF_PASS\PasswordRecorder\obj\Release\PasswordRecorder.Properties.Resources.resources
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\WF_PASS\PasswordRecorder\obj\Release\WF_PASS.csproj.GenerateResource.Cache
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\WF_PASS\PasswordRecorder\obj\Release\PasswordRecorder.exe
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\WF_PASS\PasswordRecorder\obj\Release\WF_PASS.csprojResolveAssemblyReference.cache
