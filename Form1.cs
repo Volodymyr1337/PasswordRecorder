@@ -49,10 +49,9 @@ namespace PasswordRecorder
         private void styles()
         {
             this.BackColor = Color.FromArgb(23, 20, 31);
-            buttonForm.BackColor = Color.FromArgb(23, 20, 31);
             contentForm.BackColor = Color.FromArgb(23, 20, 31);
-
-            tableLayoutHeader.BackColor = Color.FromArgb(0, 0, 0, 0);
+            tableLayoutPanel1.BackColor = contentForm.BackColor;
+            tableLayoutHeader.BackColor = Color.FromArgb(23, 20, 31);
 
             CreateBtn.BackColor = Color.FromArgb(255, 23, 68);
             CreateBtn.ForeColor = Color.White;
